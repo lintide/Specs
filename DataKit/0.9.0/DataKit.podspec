@@ -8,12 +8,12 @@
 #
 Pod::Spec.new do |s|
   s.name         = "DataKit"
-  s.version      = "0.8.0"
+  s.version      = "0.9.0"
   s.summary      = "DataKit makes it easy to add web backends to your apps."
   s.homepage     = "http://www.chocomoko.com"
   s.license      = 'MIT'
   s.author       = { "eaigner" => "eaigner" }
-  s.source       = { :git => "https://github.com/eaigner/DataKit.git", :tag => "0.8.0" }
+  s.source       = { :git => "https://github.com/lintide/DataKit.git", :tag => "0.9.0" }
   s.platform     = :ios
   s.source_files = 'DataKit-Private/*.{h,m}','DataKit/*.{h,m}'
 
