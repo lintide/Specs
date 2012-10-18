@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
   end
 
   s.framework = 'UIKit'
-  s.dependency 'SBJson', '~> 3.1.1'
+  s.dependency 'SBJson', '2.3'
 end
